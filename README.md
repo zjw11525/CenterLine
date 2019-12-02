@@ -1,19 +1,7 @@
+2019集成电路EDA设计精英挑战赛二等奖作品 华大九天反求图形中心线赛题
 ------------------------------------------------------------------------->
 1.工程目录结构
-CenterLine
-├── build.sh
-├── CMakeLists.txt
-├── include
-│   ├── Calculate.h
-│   ├── FileAccess.h
-│   ├── Optimizer.h
-│   └── Point.h
-└── src
-    ├── Calculate.cpp
-    ├── FileAccess.cpp
-    ├── main.cpp
-    └── Optimizer.cpp
-其中src目录存放源代码，include目录存放头文件
+其中src目录存放源代码，include目录存放头文件，case目录存放测试样例
 ------------------------------------------------------------------------->
 2.编译
 直接运行CenterLine目录下的脚本build.sh编译项目，或者在CenterLine目录下依次执行如下命令
