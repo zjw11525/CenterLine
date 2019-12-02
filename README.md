@@ -10,9 +10,6 @@ mkdir build && cd build
 cmake ..
 
 make
-注：编译前请先source命令执行routing_test目录下的setup.bash
-如果已经存在build目录，则直接进入build目录下执行make命令进行编译
-
 
 3.运行
 运行build目录下的lineExt
